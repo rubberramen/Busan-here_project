@@ -9,7 +9,7 @@
     "prod": "NODE_ENV=production node index.js",
     "start": "nodemon index.js"
   },
-  "author": "Chanhyn Wang",
+  "author": "Chanhyun Wang",
   "license": "ISC",
   "dependencies": {
     "compression": "^1.7.4",
