@@ -21,7 +21,7 @@ exports.selectRestaurants = async function (connection, category) {
 
 
 
-// 템플릿 예시
+// Test Code
 exports.exampleDao_ex = async function (connection, params) {   
   const Query = ``;
   const Params = [];

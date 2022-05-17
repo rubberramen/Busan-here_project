@@ -57,14 +57,11 @@ exports.readRestaurants = async function (req, res) {
 
 
 
-
-
-
 // ==================================================================================
 
 
-// <템플릿 예시 코드>
-exports.example_01010101 = async function (req, res) {
+// Test Code
+exports.example = async function (req, res) {
   try {
     const connection = await pool.getConnection(async (conn) => conn);
     try {

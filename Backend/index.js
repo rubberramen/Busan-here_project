@@ -1,6 +1,6 @@
 const express = require("./config/express");
 const { logger } = require("./config/winston");  // log
 
-const port = 3522;
-express().listen(port);  // 실행
+const port = 3522;   // 3216
+express().listen(port);
 logger.info(`${process.env.NODE_ENV} - API Server Start At Port ${port}`);

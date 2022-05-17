@@ -42,7 +42,7 @@ async function getDataSet(category) {
 
     const dataSet = await axios({
         method: "get", // http method
-        url: `http://3.37.143.97:3522/restaurants?category=${qs}`,
+        url: `http://3.37.143.97:3522/restaurants?category=${qs}`, // localhost:3522
         headers: {}, // packet header
         data: {}, // packet body
     });
@@ -59,13 +59,13 @@ https://apis.map.kakao.com/web/sample/multipleMarkerImage/ (여러개 마커)
 https://apis.map.kakao.com/web/sample/addr2coord/ (주소로 장소 표시하기)
 */
 
-// 주소-좌표 변환 객체를 생성합니다
+// 주소-좌표 변환 객체를 생성
 var geocoder = new kakao.maps.services.Geocoder();
 
 // 주소-좌표 변환 함수
 function getCoordsByAddress(address) {
     return new Promise((resolve, reject) => {
-        // 주소로 좌표를 검색합니다
+        // 주소로 좌표를 검색
         geocoder.addressSearch(address, function (result, status) {
             // 정상적으로 검색이 완료됐으면
             if (status === kakao.maps.services.Status.OK) {
