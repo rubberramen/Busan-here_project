@@ -5,7 +5,7 @@
 ![busan,here_logo5](https://user-images.githubusercontent.com/96553431/168899776-e026d934-d8af-40ed-8f2c-f3c789022890.png)
 -->
 
-<img src="https://user-images.githubusercontent.com/96553431/168899776-e026d934-d8af-40ed-8f2c-f3c789022890.png" width="190" height="150"><br>
+<img src="https://user-images.githubusercontent.com/96553431/168899776-e026d934-d8af-40ed-8f2c-f3c789022890.png" width="185" height="150"><br>
 <br>
 
 ### 1. 프로젝트 개요
@@ -41,6 +41,7 @@
 
 
 ### 5. UI 샘플
+<img width="798" alt="20220517155527" src="https://user-images.githubusercontent.com/96553431/168900202-71b88059-d6c2-45d5-b4cf-745d8d2e1c6d.png">
 
 ### 6. 애로사항
 - AWS
