@@ -42,7 +42,9 @@
 
 ### 5. UI 샘플
 #### - Test UI
-<img width="798" alt="20220517155527" src="https://user-images.githubusercontent.com/96553431/168900202-71b88059-d6c2-45d5-b4cf-745d8d2e1c6d.png">
+<!-- <img width="798" alt="20220517155527" src="https://user-images.githubusercontent.com/96553431/168900202-71b88059-d6c2-45d5-b4cf-745d8d2e1c6d.png"> -->
+<img width="798" alt="20220517155527" src="https://user-images.githubusercontent.com/96553431/170586178-58733f19-f0a3-478c-bfd9-ffb7adc56404.png">
+
 
 ### 6. 애로사항
 - AWS
